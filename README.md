@@ -561,7 +561,7 @@ Check out Gloss in these cool places!
 #### Libraries
 
 * [Alamofire-Gloss](https://github.com/spxrogers/Alamofire-Gloss)
-* [Moya-Gloss](https://github.com/spxrogers/Moya-Gloss)]
+* [Moya-Gloss](https://github.com/spxrogers/Moya-Gloss)
 * [Restofire-Gloss](https://github.com/Restofire/Restofire-Gloss)
 
 #### Newsletters

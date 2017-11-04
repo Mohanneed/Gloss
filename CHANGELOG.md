@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file.
 Released on 2017-11-04.
 
 #### Updated
-- Naming of `Decodable` and `Encodable` protocols to `JSONDecodable` and `JSONEncodable` [PR #311](https://github.com/hkellaway/Gloss/pull/311)
+- Naming of `Decodable` and `Encodable` protocols to `JSONDecodable` and `JSONEncodable` [[PR #311](https://github.com/hkellaway/Gloss/pull/311)]
 
 ---
 
@@ -37,14 +37,14 @@ Released on 2017-09-27.
 Released on 2017-03-30. All issues associated with this milestone can be found using this [filter](https://github.com/hkellaway/Gloss/issues?utf8=%E2%9C%93&q=milestone%3A1.2.4)
 
 #### Added
-- Ability to inject logger used by Decoder [Issue #282](https://github.com/hkellaway/Gloss/pull/282)
+- Ability to inject logger used by Decoder [[Issue #282](https://github.com/hkellaway/Gloss/pull/282)]
 ---
 
 ## [1.2.3](https://github.com/hkellaway/Gloss/releases/tag/1.2.3)
 Released on 2017-03-29. All issues associated with this milestone can be found using this [filter](https://github.com/hkellaway/Gloss/issues?utf8=%E2%9C%93&q=milestone%3A1.2.3)
 
 #### Fixed
-- Logging when a value cannot be found despite the value being null [Issue #279](https://github.com/hkellaway/Gloss/issues/279)
+- Logging when a value cannot be found despite the value being null [[Issue #279](https://github.com/hkellaway/Gloss/issues/279)]
 
 ---
 
@@ -52,7 +52,7 @@ Released on 2017-03-29. All issues associated with this milestone can be found u
 Released on 2017-03-28. All issues associated with this milestone can be found using this [filter](https://github.com/hkellaway/Gloss/issues?utf8=%E2%9C%93&q=milestone%3A1.2.2)
 
 #### Added
-- Logging for when a value is found but cannot be decoded [PR #277](https://github.com/hkellaway/Gloss/pull/277)
+- Logging for when a value is found but cannot be decoded [[PR #277](https://github.com/hkellaway/Gloss/pull/277)]
 
 ---
 
